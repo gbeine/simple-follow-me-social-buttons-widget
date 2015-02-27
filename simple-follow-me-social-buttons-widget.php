@@ -2,7 +2,7 @@
 /**
 Plugin Name: Simple Follow Me Social Buttons Widget
 Description: Widget to add some of the most popular follow me social buttons. Retina ready.
-Version: 	 2.8
+Version: 	 2.9
 Author: 	 Lucy Tomás
 Author URI:  https://wordpress.org/support/profile/lucymtc
 License: 	 GPLv2
@@ -116,7 +116,7 @@ final class SFMSB {
 		  	if( !defined('SFMSB_PLUGIN_DIR') )  	{ define('SFMSB_PLUGIN_DIR', plugin_dir_path( __FILE__ )); }
 			if( !defined('SFMSB_PLUGIN_URL') )  	{ define('SFMSB_PLUGIN_URL', plugin_dir_url( __FILE__ ));  }
 			if( !defined('SFMSB_PLUGIN_FILE') ) 	{ define('SFMSB_PLUGIN_FILE',  __FILE__ );  }
-			if( !defined('SFMSB_PLUGIN_VERSION') )  { define('SFMSB_PLUGIN_VERSION', '2.8');  } 
+			if( !defined('SFMSB_PLUGIN_VERSION') )  { define('SFMSB_PLUGIN_VERSION', '2.9');  } 
 			
 		  }
 		  
@@ -172,7 +172,12 @@ final class SFMSB {
 											 'stumbleupon'	=> array( 'name' => 'Stumbleupon',	'color' => 'e47961' ),
 											 'foursquare'	=> array( 'name' => 'Foursquare',	'color' => 'f37496' ),
 											 'ello'		    => array( 'name' => 'Ello.co',		'color' => '717272' ),
-											 'openclipart'	=> array( 'name' => 'Openclipart',	'color' => '74ab40' )
+											 'openclipart'	=> array( 'name' => 'Openclipart',	'color' => '74ab40' ),
+											 'stitcher'		=> array( 'name' => 'Stitcher',		'color' => '717272' ),
+											 'canalcocina'	=> array( 'name' => 'CanalCocina',	'color' => '717272' ),
+											 'kukers'		=> array( 'name' => 'Kukers',		'color' => '778752' ),
+											 'tastespotting'=> array( 'name' => 'TasteSpotting','color' => '808285' ),
+											 'foodgawker'	=> array( 'name' => 'Foodgawker',	'color' => '808285' )
 											 );
 			
 		  }

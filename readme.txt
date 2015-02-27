@@ -1,10 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker, font icons,retina ready
 Requires at least: 3.8
-Tested up to: 4.0.1
-Stable tag: 2.8
+Tested up to: 4.1
+Stable tag: 2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,12 @@ Availbale Icons:
 	* Foursquare
 	* Ello.co
 	* Openclipart
+	* Stitcher
+	* Canal Cocina
+	* Kukers
+	* TasteSpotting
+	* Foodgawker 
+
 	
 
 Missing any icons? Please feel free to request the icon you need.
@@ -77,6 +83,9 @@ Translations available:
 - Spanish 
 - Serbo-Croatian. Provided by Borisa Djuraskovic from webhostinghub.com
 
+Other plugins that you may have interest:
+- Simple Cookie Notification Bar <a href="https://wordpress.org/plugins/simple-cookie-notification-bar/">View</a> | <a href="https://downloads.wordpress.org/plugin/simple-cookie-notification-bar.zip">Download</a>
+
 == Installation ==
 1. Unzip simple-follow-me-social-buttons.zip
 2. Upload the unziped folder `simple-follow-me-social-buttons` to the `/wp-content/plugins/` directory
@@ -88,6 +97,9 @@ Translations available:
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 2.9 =
+* Added new icons.
 
 = 2.8 =
 * Added Openclipart icon.
