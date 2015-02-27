@@ -3,7 +3,7 @@ Contributors: lucymtc
 Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 3.9.1
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,9 @@ Icons from www.flaticon.com
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 1.3.1 =
+* Added version number to enqueue styles
 
 = 1.3 =
 * Added Email and SoundCloud icons
