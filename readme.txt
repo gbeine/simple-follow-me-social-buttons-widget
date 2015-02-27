@@ -1,7 +1,7 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker, font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker,tripadvisor,scoop.it,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: 2.9
@@ -70,6 +70,8 @@ Availbale Icons:
 	* Kukers
 	* TasteSpotting
 	* Foodgawker 
+	* Tripadvisor
+	* Scoop.it
 
 	
 
@@ -97,6 +99,10 @@ Other plugins that you may have interest:
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 3.0 =
+* Added new icons.
+* Fixed some icons not displaying properly.
 
 = 2.9 =
 * Added new icons.
