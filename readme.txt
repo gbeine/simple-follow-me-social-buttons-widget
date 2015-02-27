@@ -1,9 +1,9 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,font icons,retina ready
 Requires at least: 3.8
-Tested up to: 3.9.2
-Stable tag: 1.4
+Tested up to: 4.0
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,7 @@ Availbale Icons:
 	* Instagram
 	* Email
 	* SoundCloud
+	* iTunes
 
 Icons from www.flaticon.com
 
@@ -48,6 +49,10 @@ Icons from www.flaticon.com
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 1.5 =
+* Improved user interface design on the widget admin form.
+* Added iTunes icon.
 
 = 1.4 =
 * Added option to enter email address or url to any contact page for the email icon
