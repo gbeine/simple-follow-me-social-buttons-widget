@@ -1,10 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.9
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,9 @@ Availbale Icons:
 	* iTunes
 	* Bloglovin
 	* Flickr
+	* Tumblr
+	* Hubpages
+	* Deviantart
 
 Missing any icons? Please feel free to request the icon you need.
 
@@ -55,6 +58,10 @@ http://wptips.me/simple-follow-social-buttons-widget/
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 2.0 =
+* Added Tumblr, Hubpages, Deviantart icons.
+* Added some css to remove underline decoration from icons.
 
 = 1.9 =
 * Added Flickr icon.
