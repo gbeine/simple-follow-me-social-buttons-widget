@@ -1,0 +1,32 @@
+/* @group clearfix */
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+/* @end */
+
+/* @group widget */
+
+div.widget[id*=_sfmsb] input[type=checkbox],
+div.widget[id*=_sfmsb] input[type=radio],
+div.widget[id*=_sfmsb] select,
+div.widget[id*=_sfmsb] input.s{
+	margin-top: -15px;
+}
+
+div.widget[id*=_sfmsb] input.s{
+	width:100px;
+}
+
+
+
+/* @end */
+
