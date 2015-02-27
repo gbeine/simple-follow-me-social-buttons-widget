@@ -1,10 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker,tripadvisor,scoop.it,twitch,tunein,steam,scribd,ravelry,issuu,etsy,anobii,myspace,blog-connect,weibo,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker,tripadvisor,scoop.it,twitch,tunein,steam,scribd,ravelry,issuu,etsy,anobii,myspace,blog-connect,weibo,fotocommunity,dawanda,aboutme,eyeem,notonthehighstreet,odnoklassniki,font icons,retina ready
 Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 3.2
+Tested up to: 4.1.1
+Stable tag: 3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,11 +15,15 @@ Add follow me social buttons. Uses font icons, ready for Retina Display.
 No settings page, only a simple widget to add to your widget areas. 
 It displays the Follow Me social buttons. No images, this widget uses a font icons so it makes it ready for Retina Display.
 
-*   Options to choose style between rounded and square.
-*   You can also enter the size of the icons in pixels.
-*   Choose the color from the color picker. Leave blank for default colors.
-*   Choose hover effect color.
-*   Choose horizontal/vertical layout.
+**Note**: The number of icons has grown considerably since the first version of the plugin, because of this, the widget UI needs to be rethought in order to make a good experience for the end user. 
+I'll soon be working on a new version of the plugin, until then I will no longer add new icon requests.
+
+
+* Options to choose style between rounded and square.
+* You can also enter the size of the icons in pixels.
+* Choose the color from the color picker. Leave blank for default colors.
+* Choose hover effect color.
+* Choose horizontal/vertical layout.
 
 Availbale Icons:
  
@@ -85,12 +89,15 @@ Availbale Icons:
 	* Myspace
 	* Blog-Connect
 	* Weibo
+	* fotocommunity
+	* Dawanda
+	* about.me
+	* EyeEm
+	* Not On The High Street
+	* Odnoklassniki (ok.ru)
 
-	
 
-Missing any icons? Please feel free to request the icon you need.
-
-And if you are happy with the plugin and want to thank me you can find a donation button on this page. Thanks!!
+If you are happy with the plugin and want to thank me you can find a donation button on this page. Thanks!!
 http://wptips.me/simple-follow-social-buttons-widget/
 
 Translations available:
@@ -112,6 +119,10 @@ Other plugins that you may have interest:
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 3.3 =
+* Added new icons.
+* Small css fix
 
 = 3.2 =
 * Added new icons.
