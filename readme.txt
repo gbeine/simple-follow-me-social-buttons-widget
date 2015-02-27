@@ -1,10 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,font icons,retina ready
 Requires at least: 3.8
-Tested up to: 4.0
-Stable tag: 2.4
+Tested up to: 4.0.1
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,15 @@ Availbale Icons:
 	* Behance
 	* SpecificFeeds
 	* Stackoverflow
+	* Blogger
+	* Reddit
+	* 500px.com
+	* Remind (remind101)
+	* Dribbble
+	* Picasa
+	* Rdio
+	* Skype
+	* Stumbleupon
 
 Missing any icons? Please feel free to request the icon you need.
 
@@ -71,6 +80,10 @@ http://wptips.me/simple-follow-social-buttons-widget/
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 2.5 =
+* Added new set of icons.
+* Fix on css to display icons in 2 or more lines.
 
 = 2.4 =
 * Added Stackoverflow icon.
