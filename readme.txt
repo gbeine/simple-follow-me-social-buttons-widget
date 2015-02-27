@@ -4,7 +4,7 @@ Donate link: http://wptips.me/simple-follow-social-buttons-widget/
 Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.6
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,9 @@ http://wptips.me/simple-follow-social-buttons-widget/
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 1.7 =
+* Fixed js call to wp-color-picker.
 
 = 1.6 =
 * Fixed icons visibility in form when white icons.
