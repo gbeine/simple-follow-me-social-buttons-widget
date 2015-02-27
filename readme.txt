@@ -3,7 +3,7 @@ Contributors: lucymtc
 Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 3.9.1
-Stable tag: 1.1
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,8 @@ Availbale Icons:
 	* Youtube 
 	* Vimeo 
 	* Instagram
+	* Email
+	* SoundCloud
 
 Icons from www.flaticon.com
 
@@ -46,6 +48,12 @@ Icons from www.flaticon.com
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 1.3 =
+* Added Email and SoundCloud icons
+
+= 1.2 =
+* Quick fix on fonts missing
 
 = 1.1 =
 * Change set of icons
