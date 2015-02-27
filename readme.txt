@@ -1,10 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
-Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,font icons,retina ready
+Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 2.2
+Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,8 +45,13 @@ Availbale Icons:
 	* Vine
 	* GoodReads
 	* VK
-	* SansCritique
+	* SensCritique
 	* Yelp
+	* Last.fm
+	* Trover
+	* Xing
+	* Behance
+	* SpecificFeeds
 
 Missing any icons? Please feel free to request the icon you need.
 
@@ -65,6 +70,10 @@ http://wptips.me/simple-follow-social-buttons-widget/
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 2.3 =
+* Added Lastfm, Trover, Xing, Behance, SpecificFeeds.
+* Fixed issue error on some localhost activations.
 
 = 2.2 =
 * Added SansCritique and Yelp icons.
