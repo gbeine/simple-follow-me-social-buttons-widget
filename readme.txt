@@ -1,9 +1,10 @@
 === Simple Follow Me Social Buttons Widget ===
 Contributors: lucymtc
+Donate link: http://wptips.me/simple-follow-social-buttons-widget/
 Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,font icons,retina ready
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +36,10 @@ Availbale Icons:
 	* SoundCloud
 	* iTunes
 
-Icons from www.flaticon.com
+Missing any icons? Please feel free to request the icon you need.
+
+And if you are happy with the plugin and want to thank me you can find a donation button on this page. Thanks!!
+http://wptips.me/simple-follow-social-buttons-widget/
 
 
 == Installation ==
@@ -49,6 +53,10 @@ Icons from www.flaticon.com
 2. ../assets/screenshot-2.png
 
 == Changelog ==
+
+= 1.6 =
+* Fixed icons visibility in form when white icons.
+* Added some translation.
 
 = 1.5 =
 * Improved user interface design on the widget admin form.
